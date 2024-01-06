@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-tronikelis-solid",
-    "version": "5.0.0",
+    "version": "6.0.0",
     "main": "index.js",
     "author": "Tronikelis",
     "repository": {
@@ -8,7 +8,7 @@
         "url": "https://github.com/Tronikelis/eslint-config-tronikelis-solid.git"
     },
     "dependencies": {
-        "eslint-config-tronikelis": "4.0.0",
+        "eslint-config-tronikelis": "5.0.0",
         "eslint-plugin-solid": "0.13.1"
     },
     "peerDependencies": {
